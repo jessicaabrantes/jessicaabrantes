@@ -62,7 +62,7 @@ I'm building a practical Cloud & DevOps portfolio focused on:
 - Architecture
 - Documentation
 
-👉 My portfolio and learning projects will be organized here on GitHub.
+👉 [Explore my Cloud & DevOps Portfolio](https://github.com/jessicaabrantes/cloud-devops-portfolio)
 
 ## 🌱 Currently Learning
 
